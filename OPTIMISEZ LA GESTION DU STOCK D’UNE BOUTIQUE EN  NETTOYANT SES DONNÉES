@@ -1,0 +1,8 @@
+J'ai effectué une mission de consultation en tant qu'analyste BI chez BottleNeck, un 
+célèbre vendeur de vin qui effectue des ventes en ligne. Cette entreprise souhaitait 
+fusionner son ERP (Enterprise Resource Planning) avec un autre fichier contenant des 
+informations sur les produits vendus en ligne. 
+L'objectif de cette conciliation était d'obtenir le chiffre d'affaires par produit, ainsi que le 
+chiffre d'affaires global. Ils souhaitaient également savoir s'ils avaient commis des erreurs 
+de saisie sur les prix des produits. J'ai donc dû détecter s'ils avaient des valeurs 
+aberrantes, les répertorier et créer un graphique pour une meilleure lisibilité
